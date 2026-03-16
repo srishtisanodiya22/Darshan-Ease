@@ -120,7 +120,7 @@ darshan-ease
 ### 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/srishti_sanodiya/darshan-ease.git
+git clone https://github.com/srishtisanodiya22/darshan-ease.git
 cd darshan-ease
 ```
 
